@@ -1,6 +1,6 @@
 # Hi, I’m Sankara Narayanan 👋
 ## Welcome to my Github profile
-I'm MCA graduate with a strong foundation in Software Development and Data Analysis, proficient in programming languages like Java, Python, and SQL. Skilled in developing and optimizing applications with a focus on delivering efficient, scalable, and user-friendly solutions.
+I'm MCA graduate with a strong foundation in Software Development and Data Analysis, proficient in programming languages like Java, Python, SQL and Machine Learning . Skilled in developing and optimizing applications with a focus on delivering efficient, scalable, and user-friendly solutions.
 ***
 
 ## Skills
